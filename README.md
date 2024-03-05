@@ -4,6 +4,14 @@ This project is the Visual Recognition System for the Digital Ocean Laboratory.
 
  This is the CPU edition, no CUDA or GPU required.
 
+ Based repository: https://github.com/Javacr/PyQt5-YOLOv5
+
+ Models used:
+
+ - Detection ： yolov5
+ - Tracking ： PromptVT https://github.com/faicaiwawa/PromptVT
+
+
 ## Usage
 ### Installation
 Create and activate a conda environment:
