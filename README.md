@@ -1,7 +1,6 @@
 # Visual Recognition System
 This project is the Visual Recognition System for the Digital Ocean Laboratory.
 
- Ubuntu(Linux) is highly recommended, Windows has some weird installation problems and model inference problems(e.g. inference speed).
 
  This is the CPU edition, no CUDA or GPU required.
 
